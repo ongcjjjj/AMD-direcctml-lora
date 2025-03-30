@@ -1,1 +1,1 @@
-# AMD-lora
+# AMD-directml-lora
