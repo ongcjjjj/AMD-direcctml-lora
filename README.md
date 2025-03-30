@@ -1,5 +1,7 @@
 # AMD-cpu-lora
+#适用于普通消费级Amd显卡的directml-Gpu方案还在研究中
 
+CPU微调方案：
 
 启动命令：$env:PYTORCH_DIRECTML=1
 python train_single_file.py `
@@ -17,14 +19,22 @@ python -m venv dml_env
 
 3.pip安装依赖（之前试验品torch-directml也列出来了）
 
-transformers	         4.49.0	 \\
-peft	                 0.12.0
-torch	                 2.4.1
-datasets	             3.2.0	
-tokenizers	           0.21.0	
-accelerate	           1.2.1	                
-safetensors	           0.5.3	
+transformers	         4.49.0  
+
+peft	                 0.12.0  
+
+torch	                 2.4.1  
+
+datasets	             3.2.0  
+
+tokenizers	           0.21.0  
+
+accelerate	           1.2.1  
+
+safetensors	           0.5.3  
+
 torch-directml。        0.2.5.dev240914
+
 
 4.下载模型
 
