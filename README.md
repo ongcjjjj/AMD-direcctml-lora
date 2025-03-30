@@ -1,5 +1,5 @@
 # AMD-directml-lora
-$env:PYTORCH_DIRECTML=1
+启动命令：$env:PYTORCH_DIRECTML=1
 python train_single_file.py `
   --model_path "E:\aimodle\ai" `
   --train_data "E:\aimodle\ai\campus_dialogs.jsonl" `
