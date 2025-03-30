@@ -1,4 +1,4 @@
-# AMD-cpu-lora
+# AMD-gpu-lora
 #适用于普通消费级Amd显卡的directml-Gpu方案还在研究中
 
 CPU微调方案：
