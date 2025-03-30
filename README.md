@@ -17,7 +17,7 @@ python -m venv dml_env
 
 3.pip安装依赖（之前试验品torch-directml也列出来了）
 
-transformers	         4.49.0	
+transformers	         4.49.0	 \\
 peft	                 0.12.0
 torch	                 2.4.1
 datasets	             3.2.0	
