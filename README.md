@@ -1,4 +1,4 @@
-# AMD-directml-lora
+# AMD-cpu-lora
 启动命令：$env:PYTORCH_DIRECTML=1
 python train_single_file.py `
   --model_path "E:\aimodle\ai" `
