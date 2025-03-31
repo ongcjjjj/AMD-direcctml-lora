@@ -15,7 +15,7 @@ python train_single_file.py `
 python -m venv dml_env
 
 2.激活虚拟环境
-.\activate
+activate
 
 3.pip安装依赖（之前试验品torch-directml也列出来了）
 
@@ -40,7 +40,7 @@ torch-directml。        0.2.5.dev240914
 
 5.准备数据集
 
-6.虚拟环境powershell输入命令启动lora训练
+6.虚拟环境powershell并激活输入命令启动lora训练
 
 7.等
 
