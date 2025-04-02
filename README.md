@@ -1,7 +1,12 @@
 # AMD-gpu-lora
-#适用于普通消费级Amd显卡的directml-Gpu方案还在研究中
 
-CPU微调方案：
+directml-Gpu：
+#详细版本后续贴，困死了
+python src/train_lora.py
+
+
+
+CPU微调：
 
 启动命令：$env:PYTORCH_DIRECTML=1
 python train_single_file.py `
