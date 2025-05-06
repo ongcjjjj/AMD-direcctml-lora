@@ -1,6 +1,6 @@
 #vocab.txt放入模型目录
 # Name                    Version                   Build  Channel  
-absl-py                   2.1.0                    pypi_0    pypi  
+absl-py &nbsp;&nbsp;&nbsp;                  2.1.0      &nbsp;&nbsp;&nbsp;              pypi_0    pypi  
 accelerate                0.20.3                   pypi_0    pypi  
 aiohttp                   3.8.6                    pypi_0    pypi  
 aiosignal                 1.3.1                    pypi_0    pypi  
