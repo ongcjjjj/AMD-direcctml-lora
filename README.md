@@ -1,8 +1,8 @@
 # AMD-gpu-lora
 
-directml-Gpu：
-详细见GPU目录
-python src/train_lora.py
+directml-Gpu:  
+详细见GPU目录  
+python src/train_lora.py  
 
 
 
