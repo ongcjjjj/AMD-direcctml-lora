@@ -76,9 +76,9 @@ vc          &nbsp;&nbsp;&nbsp;              14.42       &nbsp;&nbsp;&nbsp;      
 vs2015_runtime     &nbsp;&nbsp;&nbsp;       14.42.34433   &nbsp;&nbsp;&nbsp;       he0abc0d_4  
 werkzeug       &nbsp;&nbsp;&nbsp;           2.2.3         &nbsp;&nbsp;&nbsp;           pypi_0    pypi  
 wheel          &nbsp;&nbsp;&nbsp;           0.38.4       &nbsp;&nbsp;&nbsp;    py37haa95532_0  
-wincertstore              0.2              py37haa95532_2
-wrapt                     1.16.0                   pypi_0    pypi
-xxhash                    3.5.0                    pypi_0    pypi
-yarl                      1.9.4                    pypi_0    pypi
-zipp                      3.15.0                   pypi_0    pypi
-zlib                      1.2.13               h8cc25b3_1    anaconda
+wincertstore   &nbsp;&nbsp;&nbsp;           0.2         &nbsp;&nbsp;&nbsp;     py37haa95532_2  
+wrapt            &nbsp;&nbsp;&nbsp;         1.16.0      &nbsp;&nbsp;&nbsp;             pypi_0    pypi  
+xxhash         &nbsp;&nbsp;&nbsp;           3.5.0       &nbsp;&nbsp;&nbsp;             pypi_0    pypi  
+yarl          &nbsp;&nbsp;&nbsp;            1.9.4       &nbsp;&nbsp;&nbsp;             pypi_0    pypi  
+zipp           &nbsp;&nbsp;&nbsp;           3.15.0      &nbsp;&nbsp;&nbsp;             pypi_0    pypi  
+zlib         &nbsp;&nbsp;&nbsp;             1.2.13      &nbsp;&nbsp;&nbsp;         h8cc25b3_1    anaconda  
